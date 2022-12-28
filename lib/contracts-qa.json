@@ -1,0 +1,42 @@
+{
+    "apex": {
+        "address": "0xEBb0882632e06cbe8070296F7e4E638639f89068",
+        "start_block": 7468894
+    },
+    "usdc": {
+        "address": "0xd44BB808bfE43095dBb94c83077766382D63952a",
+        "start_block": 6449786
+    },
+    "banana": {
+        "address": "0x39d3a0F25D94D9c13E552b9E81eF9b03550A9783",
+        "start_block": 7636721
+    },
+    "banana_claimable": {
+        "address": "0xEb4D20D24542A42C65050AfB131F0fd9f2ddDA3A",
+        "start_block": 7583088
+    },
+    "banana_distributor": {
+        "address": "0x3645B882fa6EB1cE3335765Faf7C25CB8dD260E6",
+        "start_block": 7583090
+    },
+    "buyback_pool": {
+        "address": "0xe9c6786103c617Fb7BAC0c715016067c15673444",
+        "start_block": 7583090
+    },
+    "twamm": {
+        "address": "0xc0767d86dDf8b172f2B57AD6Ddf59B35c3170E81",
+        "start_block": 7449567
+    },
+    "twamm_pair": {
+        "address": "0xe88695604729Fc015ff43a1C0a3c642665B95583",
+        "start_block": 7576763
+    },
+    "es_apex": {
+        "address": "0xc06592769D9264055395Dc8539B7da3634CA9958",
+        "start_block": 8008782
+    },
+    "staking_pool": {
+        "address": "0xc73a38Cc19dF23720b676181Eb723E9F21987EC7",
+        "start_block": 8175140
+    }
+}
