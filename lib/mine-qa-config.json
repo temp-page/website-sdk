@@ -1,0 +1,34 @@
+{
+    "banana": {
+        "address": "0xe95b3Dc78c0881dEa17A69BaFC6cFeB8d891e9DE",
+        "startBlock": "5078367"
+    },
+    "usdt": {
+        "address": "0x89cBccEdDF07A14aFf90eF5D3A7D5BEf9e33Cb6b",
+        "startBlock": "5078367"
+    },
+    "apex": {
+        "address": "0x1661181907bBbd0688EBC6B3b630b3669bBB4Bd4",
+        "startBlock": "5078367"
+    },
+    "bananaClaimable": {
+        "address": "0x1A533156f619f79abdCf6cdb0F02941328E3E016",
+        "startBlock": "5078367"
+    },
+    "apexClaimable": {
+        "address": "0x429dc47a3a6dfc6510a8ec32f9077d62eea4c1af",
+        "startBlock": "5078367"
+    },
+    "pair": {
+        "address": "0xa9F93ea8FE0F0d05B82Fb7CAB5D97c728DF16026",
+        "startBlock": "5082800"
+    },
+    "config": {
+        "USDT_DECIMAL": "18",
+        "token0IsBanana": false,
+        "pair": "0xa9F93ea8FE0F0d05B82Fb7CAB5D97c728DF16026",
+        "banana": "0xe95b3Dc78c0881dEa17A69BaFC6cFeB8d891e9DE",
+        "apex": "0x1661181907bBbd0688EBC6B3b630b3669bBB4Bd4",
+        "usdt": "0x89cBccEdDF07A14aFf90eF5D3A7D5BEf9e33Cb6b"
+    }
+}
